@@ -1,12 +1,12 @@
 # Progress
 
-**Current lesson:** 0.1 — What a compiler is (`curriculum/unit-0-rust-foundations/0.1-what-a-compiler-is.md`)
+**Current lesson:** 1.1 — How Rust differs from Python (`curriculum/part-1-learn-rust/unit-1-rust-basics/1.1-rust-vs-python.md`)
 
 ## Completed
-_(none yet: tick lessons off here as you finish them, e.g. `- [x] 0.1 — 2026-11-12`)_
+_(tick lessons off here as you finish them, e.g. `- [x] 1.1 — 2026-11-17`)_
 
 ## Open questions / confusions
-_(write down anything you want the tutor to revisit)_
+_(anything you want the tutor to revisit)_
 
-## Test suite status
+## Test suite status (Part 3)
 _(latest `--chapter N` that fully passes)_
